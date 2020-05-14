@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c3a010e7-4dd3-440c-87d6-d870b9be43df" name="Lab_160_cpluscplus" url="http://10.3.3.160">
+        <fileTransfer host="10.3.3.160" port="22" rootFolder="/data/csda_user/taidv/Documents/Irene/programming_languages/cplusplus" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
